@@ -1,0 +1,1166 @@
+@charset "utf-8";
+
+#barra_topo{
+	height:30px;
+	width: 100%;
+  text align: center;		
+    margin-top:0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	padding-top: 3px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+	background-color: #82341d;
+
+}
+
+#bemvindo{
+	float:left;
+	text align:left;
+	padding:5px 7px;
+	margin:0;
+	color:#FFF;
+}
+
+
+
+#container_topo{
+	height:35px;
+	width: auto;
+	margin:0;
+	padding-top: 3px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+}
+/* CSS Document */
+
+
+#container{
+	width:800px;
+	padding:0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	overflow: visible;
+	background-color: #FFF;
+}
+
+
+#conteudo{
+	width:800px;
+	padding:0px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 1090px;
+}
+
+#conteudo_b{
+	width:800px;
+	padding:0px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 800px;
+}
+
+#conteudo_c{
+	width:798px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 1415px;
+	text-align: center;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+
+#conteudo_d{
+	width:795px;
+	padding:0px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 500px;
+}
+
+#conteudo_e{
+	width:800px;
+	padding:0px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: auto;
+}
+
+#conteudo_menor{
+	width:795px;
+	padding:0px;
+	background-color: #FFF;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 430px;
+}
+	
+
+#titles{
+	width:590px;
+	height:45px;
+	margin-bottom: 8px;
+	float: left;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #fcba5e;
+	font-size: 10px;
+}
+
+#titles_pd{
+	width:780px;
+	height:45px;
+	margin-bottom: 4px;
+	float: left;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #fcba5e;
+	font-size: 10px;
+	margin-left: 8px;
+	margin-top: 4px;
+}
+
+
+#barra_rodape{
+	height:189px;
+	width: 100%;
+
+
+
+
+	text align: center;
+	padding:0;
+	background-color: #fcba5e;
+	display: block;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-top: 0px;
+}
+
+#container_rodape{
+	width:800px;
+	height:179px;
+	padding:0px;
+	background-color:#fcba5e;
+	position: relative;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#enderecos{
+	width:280px;
+	height: 125px;
+	margin: 0px;
+	padding:6px;
+	float: right;
+	text-align: right;
+}
+
+#redes_sociais{
+	width:265px;
+	height: 40px;
+	margin: 0px;
+	float: right;
+	text-align: left;
+	padding-top: 7px;
+	padding-right: 5px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+}
+
+
+#pgto{
+	float:left;
+	padding:4px; 
+	width:480px; 
+	height:29px;
+}
+
+
+#topo{
+	width:100%;
+	height:30px;
+	margin:0px;
+	padding:0px;
+	background-color:#030
+}
+
+#bloco_a{
+	width:800px;
+	height:30px;
+	padding:0px;
+	background-color:#82341d;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#menu_a{
+	width:650px;
+	height:30px;
+	margin:0px;
+	padding:0px;
+	background-color: #82341d;
+	float: right;	
+}
+
+#qd_valor{
+	width:120px;
+	height:24px;
+	margin:0; 
+	padding:3px 15px;
+	background-color: #fcba5e;
+	text-align:center;
+	float: right;	
+}
+
+#bloco_b{
+	width:800px;
+	height:121px;
+	padding:0px;
+	margin: 0px;
+	clear: both;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-color: #FFF;
+}
+
+#logo{
+	width:238px;
+	height:101px;
+	float: left;
+	text-align:left;
+	margin-top: 7px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+
+#menu_b{
+	width:386px;
+	height:46px;
+	margin:0px;
+	padding:0px;
+	background-color: #FFF;
+	float: right;
+}
+
+#busca{
+	width:190px;
+	height:40px;
+	margin:0px;
+	float: right;
+	padding-top: 11px;
+	padding-right: 4px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	text-align: center;
+}
+
+#menu_c{
+	width:550px;
+	height:58px;
+	margin:0px;
+	background-color: #FFF;
+	float: right;
+	padding-top: 6px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	position: relative;
+	z-index: 10;
+}
+
+
+#local{
+	width:750px;
+	height:18px;
+	font-size:12px;
+	padding-top:3px;
+	padding-left:8px;
+	text-align:left;
+	background-color:#FFF;
+	float: left;
+	border-bottom-width: 0px;
+	border-bottom-style: solid;
+	border-bottom-color: #fcba5e;
+	margin-top: 4px;
+	margin-right: 0px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+}
+
+
+#banner_a{
+	width:800px;
+	height:210px;
+	background-color: #FFF;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 3px;
+	padding-right: 0px;
+	padding-bottom: 3px;
+	padding-left: 0px;
+	z-index: 2;
+}
+
+#banner_b{
+	width:590px;
+	height:78px;
+	background-color: #FFF;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	padding:0;
+	display: inherit;
+	float: left;
+}
+
+#produtos_home{
+	width:610px;
+	height:auto;
+	margin:0px;
+	float: right;
+	padding-top: 8px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 3px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#produtos_um{
+	width:792px;
+	height:auto;
+	float: right;
+	padding-top: 8px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	margin-right: 3px;
+	margin-bottom: 0px;
+	margin-left: 3px;
+}
+
+#textos{
+	width:760px;
+	height:auto;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 6px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 9px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+	
+#menu_categorias{
+	width:180px;
+	margin:0px;
+	float: left;
+	padding: 0;
+}
+
+#menu_marcas{
+	width:180px;
+	margin:0px;
+	padding:0px;
+	background-color: #663;
+	float: left;
+}
+#news{
+	width:160px;
+	float: left;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 6px;
+	text-align: left;
+	border: 1px solid #ccc;
+	padding: 0px;
+}
+
+
+#lista_rodape{
+	width:148px;
+	height:125px;
+	padding:8px;
+	border-right:solid 1px;
+	border-right-color:#FBAA3C;
+	float: left;
+	margin-top: 4px;
+	margin-right: 0;
+	margin-bottom: 2px;
+	margin-left: 2px;
+}
+
+/*Lista de links no rodape*/
+#lrd ul {
+	font-size:12px;
+	font-weight:bold;
+	color:#82341d;
+	text-decoration:none;
+	margin:0;
+	padding:0;
+	list-style:none;
+	text-align: left;
+	line-height:24px;
+	float:left;
+} 
+
+#lrd ul li { display: inherit; } 
+
+#lrd ul li a {
+	color:#82341d;
+	font-weight:normal;	
+	text-decoration:none;
+	padding: 6px 4px;
+} 
+
+#lrd ul li a:hover {
+	background-color:#fff;
+	color: #82341d;
+} 
+
+#redes_sociais_a{
+	width:160px;
+	text-align: left;
+	margin-top: 6px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 6;
+	float: left;
+	padding: 0px;
+	border: 1px solid #e6e6e6;
+}
+
+
+
+/*Menu Branco*/
+#faq ul {
+	font-size:10px;
+	font-weight:bold;
+	padding:0 0 0px 0;
+	margin:0px;
+	width: 360px;
+	height: 45px;
+	background-color:#FFF;
+	list-style:none;
+	float:left;
+} 
+
+#faq ul li { display: inline; } 
+
+#faq ul li a {
+	float:left;
+	/* visual do link */
+    background-color:#fff;
+	color: #666;
+	text-decoration: none;
+	padding-top: 17px;
+	padding-right: 7px;
+	padding-bottom: 12px;
+	padding-left: 7px;
+/*    border-bottom:1px solid #fff;*/
+} 
+
+#faq ul li a:hover {
+	background-color:#fcba5e;
+	color: #fff;
+} 
+
+/*Menu com Drop Down*/
+#drop ul{
+	padding:0;
+	margin:0;
+	background-image: url(../img/cinza_bkg.jpg);
+}
+
+#drop ul li{
+	position: relative;
+	float: right;
+	list-style: none;
+	margin: 0;
+	padding:0;
+	background-image: url(../img/cinza_bkg.jpg);
+
+} 
+
+#drop ul li:hover{
+	background-image: url(../img/laranja_bkg.jpg);
+}
+
+#drop ul li a{
+	width:108px;
+	height: 46px;
+	display: block;
+	/*	padding:5px;*/
+	border-left:1px solid #e9e9e9;
+	border-right:1px solid #e9e9e9;
+	border-bottom:1px dotted #666;	
+	font-size:11px;
+	font-weight:bold;
+	text-transform:uppercase;
+	text-align:center;
+	z-index:100;
+	text-decoration:none;
+	line-height: 46px;
+	color: #666;
+	background-image: url(../img/arrow_down.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+} 
+
+#drop ul li a:hover{
+	background-color: #fcba5e;
+	color: #FFF;
+} 
+
+
+#drop ul ul{
+	position: absolute;
+	top: 47px;
+	background-color: #e5e5e5;
+	visibility: hidden;
+} 
+
+#drop ul li:hover ul{
+	top: 47px;
+	background-color: #fcba5e;
+	visibility: visible;
+	overflow: visible;
+	z-index: 100;
+}
+
+
+#drop ul li ul a{
+	font-size: 11px;
+	color: #82341d;
+	background-image: none;
+	background-color: #e5e5e5;
+} 
+
+#drop ul li ul a:hover{
+	background-color: #fcba5e; 
+} 
+
+
+/*Menu de Topo*/
+
+#menu_topo ul {
+	margin:0px;
+	font-weight:bold;
+	font-size:11px;
+	width: 300px;
+	height:24px;
+	list-style:none;
+	float: right;
+	padding-top: 6px;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color:#82341d;
+} 
+
+/*horizontal*/
+#menu_topo ul li {
+	display: inline;
+} 
+
+#menu_topo ul li a {
+	/* visual do link */
+	color: #FFF;
+	text-decoration: none;
+	padding-right: 8px;
+	padding-left: 8px;
+	margin: 0px;
+} 
+
+/*mouse over*/
+#menu_topo ul li a:hover {
+	background-color:#fcba5e;
+	color: #82341d;
+	padding: 8px;
+} 
+
+/*total pedidos*/
+#bloco_valor {
+	height: 21px;
+	background-color: #fcba5e;
+	text-align:left;
+/*	border: 2px solid #fcba5e;*/
+	font-size: 9pt;
+	font-weight: bold;
+	text-align: center;
+	float: right;
+	width: 130px;
+	margin: 0px;
+	padding: 5px 0 0 0;
+}
+
+.box_valor {
+	border:0px;
+	line-heigth:25px;
+	text-align: center;
+	margin-left:5px;
+	margin-right:0px;
+	padding:0px;
+}
+
+/*Menu Lateral*/
+#lateral {
+	width: 160px;
+	padding: 0;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #e2e2e2;
+	border-bottom-color: #e2e2e2;
+	margin-top: 4px;
+	margin-left: 7px;
+	line-height: 20px;
+	float: left;
+}
+
+#lateral ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+#lateral li {
+	border-bottom: 1px dotted #CCC;
+	border-left: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+	margin: 0 0 0px 0;
+}
+
+#lateral li a {
+	display: block;
+	padding: 6px 15px;
+	background-color: #EEE;
+	color: #666;
+	text-align:left;
+	text-decoration: none;
+}
+#lateral li a:hover {
+	background-color: #fcba5e;
+	color: #fff;
+}
+/* Fix IE. Hide from IE Mac \*/
+* html ul#lateral  li { float: left; height: 5%; }
+* html ul#lateral  li a { height: 5%; }
+/* End */
+
+.titulo_lateral{
+	dysplay:block;
+	width: 138px;
+	height:20px;
+	line-height:20px;
+	background-image:url(../img/cinza_bkg.jpg);
+	text-align:left;
+	margin:0;
+	font-size:12px;
+	font-weight:bold;
+	text-transform:uppercase;
+	text-decoration:none;
+	color: #82341d;
+	border-top-style: solid;
+	border-top-color: #999999;
+	border-top-width: 1px;
+	padding-top: 6px;
+	padding-right: 10px;
+	padding-bottom: 6px;
+	padding-left: 10px;
+	background-color: #e4e4e4;
+}
+
+/*fim menu lateral*/
+
+#produto{
+	width: 174px;
+	height:265px;
+	border:1px solid #CCC;
+	padding-top: 7px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	float: left;
+	margin-top: 6px;
+	margin-right: 5px;
+	margin-bottom: 6px;
+	margin-left: 5px;
+}
+
+#produto:hover{
+	border:1px solid #fcba5e;
+	background-image: url(../img/triangle.png);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+#tit_prod{
+	width:170px;
+	height:53px;
+	font-size:12px;
+	color:#444;
+	font-weight:bold;
+	text-align:center;
+	text-transform:uppercase;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	padding: 3;
+}
+	
+	
+#img_prod{
+	width:170px;
+	height:110px;
+	padding:0;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+
+#precos{
+	width:150px;
+	height:40px;
+	color:#82351d;
+	font-size:12px;
+	font-weight:bold;
+	text-height:18px;
+	border-bottom: 1px solid #ccc;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 2px;
+	padding-left: 5px;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+
+
+#cadastro{
+	width: 560px;
+	padding-top: 7px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	margin-top: 6px;
+	margin-right: auto;
+	margin-bottom: 6px;
+	margin-left: auto;
+	font-size: 12px;
+	float: left;
+	border: 1px solid #CCC;
+}
+
+#contato{
+	width: 500px;
+	padding-top: 7px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	margin-top: 5px;
+	font-size: 12px;
+	float: left;
+}
+
+#coluna{
+	width:160;
+	float:right;
+	text-align:left;
+	line-height:20px;
+	margin-top: 0;
+	margin-right: 3px;
+	margin-bottom: 0;
+	margin-left: 3px;
+	padding-top: 0;
+	padding-right: 3px;
+	padding-bottom: 0;
+	padding-left: 3px;
+	list-style-type: none;
+	border-left-style: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+}
+
+#coluna_contatos{
+	width:230px;
+	float:right;
+	text-align:left;
+	line-height:20px;
+	padding-top: 0;
+	padding-right: 4px;
+	padding-bottom: 0;
+	padding-left: 9px;
+	margin-top: 10px;
+}
+
+
+
+/*PAGINAÇÃO*/
+#paginacao{
+	width:470px;
+	height:46px;
+	padding:0;
+	margin-top: 1px;
+	margin-right: 0;
+	margin-bottom: 1px;
+	margin-left: 0;
+	font-size:13px;
+	float: right;
+	clear: both;
+	text-align: right;
+}
+	
+#pag ul {
+	list-style-type: none;
+}
+#pag li {
+	float: left;
+	display: inline;
+	margin: 0 8px 0 0;
+	display: block;
+}
+#pag li a {
+	color: #999;
+	padding: 4px 5px;
+	border: 1px solid #E2E2E2;
+	text-decoration: none;
+	float: left;
+}
+#pag li a:hover {
+	color: #FFF;
+	background: #82341d;
+}
+#pag li.nolink {
+	color: #999;
+	border: 1px solid #E2E2E2;
+	padding: 4px 5px;
+}
+#pag li.atual {
+	color: #FFF;
+	border: 1px solid #E2E2E2;
+	padding: 4px;
+	background: #fcba5e;
+}
+
+/*Fim da paginação*/
+
+#voltar{
+	width:580px;
+	height:30px;
+	padding:0;
+	float:right;
+	margin-top: 15px;
+	margin-right: 0;
+	margin-bottom: 5px;
+	margin-left: 0;
+}
+
+#voltar_pd{
+	width:780px;
+	height:45px;
+	padding:0;
+	text-align:center;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	clear: both;
+}
+
+#box_back a{
+	font-weight:bold;
+	padding:5px;
+	text-transform:uppercase;
+	font-size:14px;
+	text-decoration:none;
+	display:block;
+	background-color:#82341d;
+    color:#fff; 
+} 
+
+#box_back a:hover{     
+	background-color:#fcba5e;
+    color:#fff; 
+	text-decoration:none; 
+   }
+   
+#bloco_imagem{
+	width:360px;
+	height:285px;
+	float:left;
+	margin: 5px;
+	padding:3px;
+}
+
+#bloco_menor{
+	width:330px;
+	height:300px;
+	float:left;
+	font-size:11px;
+	color:#666666;
+	text-align:left;
+	margin-top: 5px;
+	margin-right: 8px;
+	margin-bottom: 5px;
+	margin-left: 8px;
+	padding-top: 0;
+	padding-right: 7px;
+	padding-bottom: 0;
+	padding-left: 7px;
+}
+
+#bloco_cinza{
+	width:350px;
+	height:300px;
+	float:left;
+	font-size:11px;
+	color:#666666;
+	background-color: #F3F3F3;
+	text-align: center;
+	margin-top: 5px;
+	margin-right: 8px;
+	margin-bottom: 5px;
+	margin-left: 8px;
+	padding-top: 0;
+	padding-right: 8px;
+	padding-bottom: 0;
+	padding-left: 8px;
+}
+
+#bloco_video{
+	width:765px;
+	height:auto;
+	text-align:center;
+	color:#82341d;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+}
+
+#bloco_texto_a{
+	width:380px;
+	padding:0;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-bottom: 3px;
+	margin-left: 3px;
+	float: right;
+}
+
+	
+	
+#eco{
+	width:60px;
+	height:60px;
+	position:relative;
+	top: -120px;
+	margin: 0px;
+	z-index: 200;
+	left: -3px;
+	visibility: visible;
+	overflow: visible;
+	background-image: url(../img/selo.png);
+
+}
+
+#prod_cont{
+	width:750px;
+	height:450px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-bottom: 5px;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 0;
+	padding-bottom: 10px;
+	padding-left: 0;
+}
+
+#prod_img{
+	width:280px;
+	height:240px;
+	float:left;
+	margin-top: 0;
+	margin-right: 0px;
+	margin-bottom: 0;
+	margin-left: 6px;
+	padding-top: 20px;
+	padding-right: 0;
+	padding-bottom: 5px;
+	padding-left: 0;
+	clear: left;
+}
+
+#prod_tb{
+	width:280px;
+	height:120px;
+	float:left;
+	text-align:left;
+	line-height:30px;
+	font-size:12px;
+	padding:0;
+	clear:left;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 5px;
+	position: relative;
+	top: -150px;
+}
+
+#prod_mais{
+	width:250px;
+	height:auto;
+	float:right;
+	text-align:right;
+	line-height:35px;
+	font-size:12px;
+	padding:5px;
+	clear:right;
+	margin-top: 10;
+	margin-right: 0px;
+	margin-bottom: 10;
+	margin-left: 0px;
+}
+
+#prod_tit{
+	width:410px;
+	height:30px;
+	float:right;
+	margin:0 5px;
+	padding:8px;
+	background-color:#fff;
+	border-bottom:2px solid #fcba5e;
+	text-align:left;font-size:18px;
+	color: #82341d; font-weight:bold;
+	text-transform: uppercase
+}
+
+#prod_txt{
+	width:400px;
+	height:auto; 
+	float:right;
+	margin:0 5px;
+	padding:5px; 
+	background-color:#fff;
+	border-bottom:1px dotted #82341d; 
+	text-align:left;
+	line-height:25px;
+	clear:right;
+}
+
+#prod_valor{
+	width:200px;
+	height:auto;
+	float:right;
+	background-color:#fff;
+	text-align:center;
+	font-size:25px;
+	color: #82341d;
+	font-weight:bold;
+	margin-top: 0;
+	margin-right: 5px;
+	margin-bottom: 0;
+	margin-left: 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+	
+#prod_compra{
+	width:230px;
+	height:auto;
+	float:right;
+	background-color:#fff;
+	text-align:left;
+	font-weight:bold;
+	margin-top: 0;
+	margin-right: 5px;
+	margin-bottom: 0;
+	margin-left: 5px;
+	padding-top: 8px;
+	padding-right: 5px;
+	padding-bottom: 8px;
+	padding-left: 5px;
+}	
+		
+#prod_outros{
+	width:180px;
+	height:auto; 
+	float:right;
+	margin:0 5px;
+	padding:5px; 
+	text-align:left;
+	font-size:12px; 
+	color:#666;
+}
+
+#prod_esp{
+	width:730px;
+	height:auto; 
+	float:left;
+	clear:both;
+	margin:0 auto;
+	padding:5px; 
+	background-color:#f4f4f4;
+	border:1px solid #f4f4f4;
+	text-align:left;
+	line-height:25px;
+}

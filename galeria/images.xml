@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+<album id="Oi" title="Oi" lgPath="../galeria/gallery/img/lg/" tnPath="../galeria/gallery/img/tb/" description="Galeria de Imagens">
+	
+	<img src="1.jpg" caption="Violão Alcântara - Instrumentos Musicais" />
+	<img src="2.JPG" caption="Instrumentos, equipamentos e acessórios para músicos e eventos" />
+	<img src="3.JPG" caption="As melhores marcas do mercado" />
+	<img src="4.JPG" caption="Grande variedade de equipamentos e acessórios" />
+	<img src="5.JPG" caption="Qualidade de atendimento e serviços" />
+	</album>
+</gallery>
